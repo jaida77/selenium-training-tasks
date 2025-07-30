@@ -1,0 +1,20 @@
+Customer: Jaida (jaida@example.com)
+ - Laptop ₹55000.0
+ - Atomic Habits ₹499.0
+Total: ₹55499.0
+
+Customer: Jaida (jaida@example.com)
+ - Laptop ₹55000.0
+ - Atomic Habits ₹499.0
+Total: ₹55499.0
+
+Customer: Jaida (jaida@example.com)
+ - Laptop ₹55000.0
+ - Atomic Habits ₹499.0
+Total: ₹55499.0
+
+Customer: jaida fathima (jaidafathima@gmail.com)
+ - Chair ₹2999.0
+ - Laptop ₹55000.0
+Total: ₹57999.0
+
